@@ -74,8 +74,6 @@ Outside work I design, build, and **run two products live in production** — en
 |---|---|---|
 | 🎵 **[Melodrop](https://github.com/filipeteotonio/melodrop)** | Paste a YouTube / YouTube Music playlist, get tagged MP3s with square album art — a local web app on top of yt-dlp | Layered, SOLID architecture (ports & adapters, pluggable format strategies) · 97 tests, ~98% coverage · zero runtime dependencies · hardened localhost server (DNS-rebinding & CSRF guards) |
 
-[![Melodrop](https://github-readme-stats.vercel.app/api/pin/?username=filipeteotonio&repo=melodrop&hide_border=true&show_owner=false)](https://github.com/filipeteotonio/melodrop)
-
 ---
 
 **How I work**
