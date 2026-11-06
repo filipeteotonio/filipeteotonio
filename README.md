@@ -68,6 +68,16 @@ Outside work I design, build, and **run two products live in production** — en
 > Not side-project demos — deployed, monetized, and maintained. I own the full stack: schema, backend, mobile, landing, CI/CD, and infra. 
 ---
 
+**Open source**
+
+| Project | What it is | Engineering highlights |
+|---|---|---|
+| 🎵 **[Melodrop](https://github.com/filipeteotonio/melodrop)** | Paste a YouTube / YouTube Music playlist, get tagged MP3s with square album art — a local web app on top of yt-dlp | Layered, SOLID architecture (ports & adapters, pluggable format strategies) · 97 tests, ~98% coverage · zero runtime dependencies · hardened localhost server (DNS-rebinding & CSRF guards) |
+
+[![Melodrop](https://github-readme-stats.vercel.app/api/pin/?username=filipeteotonio&repo=melodrop&hide_border=true&show_owner=false)](https://github.com/filipeteotonio/melodrop)
+
+---
+
 **How I work**
 
 I like the unglamorous work that compounds: decoupling the write path so a service scales horizontally, killing the transactional coupling that fills your dead-letter queue, finding the $14M bug hiding in tax logic nobody wanted to touch, and putting guardrails around an LLM so it's safe to run in production. I optimize for impact over activity — and I ship the whole thing, not just the happy path.
